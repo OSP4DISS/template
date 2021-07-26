@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html class="uk-background-secondary" lang="en">
+
+{% include head.html %}
+
+<body>
+    {% include navbar.html %}
+
+    <br>
+
+    <section class="uk-container uk-light">
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+    </section>
+
+    <section class="uk-container uk-light">
+        {% include footer.html %}
+    </section>
+    
+</body>
+
+</html>
