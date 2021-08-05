@@ -34,7 +34,7 @@ layout: default
 # Author information
 author:
   name: "Operating Systems"
-  address: "Local Host"
+  email: "operatingsystems@vlsm.org"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -61,14 +61,6 @@ revision: V000--01-Jan-1970
 
 footer:
   copyright: © 2021
-
-disclaimer: >-
-  You are free to share, copy and redistribute the material of this site 
-  in any medium or format for any purpose, even commercially. 
-  Please give appropriate credit, provide a link to the page, 
-  and indicate if changes were made. You may do so in any reasonable manner. 
-  You should not apply legal terms or technological measures, 
-  that legally restrict others from doing anything that is permitted here.
 
 # Logo configuration (for navbar). Alt text will be used if failed
 logo: /favicon.ico
@@ -113,10 +105,10 @@ external_links:
   #   url: "https://www.google.com"
   -
     name: GitHub
-    url: "https://github.com/OSP4DISS/template"
+    url: "https://github.com/skycruiser8/TestOS/"
   - 
     name: Web
-    url: "https://osp4diss.github.io/template/"
+    url: "https://skycruiser8.github.io/TestOS/"
   
 
 
